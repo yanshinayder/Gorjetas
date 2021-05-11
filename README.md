@@ -1,2 +1,2 @@
 # Gorjetas-Em-Andamento-
-Projeto de estudos envolvendo estatística, pandas, numpy e plots
+Projeto de estudos envolvendo estatística, pandas, numpy e plots(Em Andamento)
